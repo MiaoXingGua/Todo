@@ -7,8 +7,8 @@ $(function() {
   AV.$ = jQuery;
 
   // Initialize AV with your AV application javascript keys
-  AV.initialize("28ferwlg9sncja6qw9ede6ruomjfed7lex4dljhlg80u23xl",
-                   "xj25ocmxj8cahecic82bfy9e79rctmf663jfn8ixh86eisl5");
+  AV.initialize("pubefv2y1f29mdx4syw4csfox6w3y2b4or7fuxrs5fof4pvv",
+                   "0cnygkqxyrj96dkuyssuwm142i085zi85ugt6dxux23g7wui");
 
   // Todo Model
   // ----------
